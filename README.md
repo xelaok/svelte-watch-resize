@@ -1,4 +1,4 @@
-## svelte-mobx ([npm](https://www.npmjs.com/package/svelte-watch-resize), [demo](https://svelte.dev/repl/76389084c0e241e8b1e5bd910897c468))
+## svelte-watch-resize ([npm](https://www.npmjs.com/package/svelte-watch-resize), [demo](https://svelte.dev/repl/76389084c0e241e8b1e5bd910897c468))
 Watch element resize in Svelte
 
 ## Installation
