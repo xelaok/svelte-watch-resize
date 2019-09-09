@@ -33,33 +33,4 @@ npm i -S svelte-watch-resize
         {mainWidth}
     </div>
 </div>
-
-<style>
-    .root {
-        position: fixed;
-        left: 0;
-        top: 0;
-        right: 0;
-        bottom: 0;
-
-        display: flex;
-        flex-flow: row nowrap;
-    }
-
-    .content {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-size: 2em;
-    }
-
-    .leftContent {
-        flex: 2;
-        background-color: hsl(0, 0%, 97%);
-    }
-
-    .mainContent {
-        flex: 4;
-    }
-</style>
 ```
